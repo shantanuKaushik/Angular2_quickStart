@@ -1,1 +1,11 @@
+.git
+.gitignore
 
+#ignores all the node modules
+node_modules/
+
+README.txt
+
+#ignores editor related configs
+**/.idea/workspace.xml
+**/.idea/tasks.xml
